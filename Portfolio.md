@@ -50,4 +50,4 @@
 
 ## PET Проекты:
 - [Тестовый фреймворк на .Net](https://github.com/Roman-Tretiakov/at-solution)
-- [Backend приложение на TS](https://github.com/Roman-Tretiakov/blogger-platform)
+- [Backend приложение на Express](https://github.com/Roman-Tretiakov/blogger-platform)
