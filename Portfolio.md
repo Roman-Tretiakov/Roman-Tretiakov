@@ -1,6 +1,3 @@
-<img width="641" height="111" alt="image" src="https://github.com/user-attachments/assets/f4e9a80c-78ac-4485-831c-0a812da1d89d" />
-
-
 # Роман Третьяков
 
 **QA Automation Engineer + AI**
